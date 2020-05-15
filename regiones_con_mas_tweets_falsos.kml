@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+	<Document>
+		<name>regiones_con_mas_tweets_falsos.kml</name>
+
+		<Placemark>
+			<name>New York</name>
+			<region>New York</region>
+			<Point>
+				<coordinates>-74.0059662,40.7142715</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Washington, D.C.</name>
+			<region>Washington, D.C.</region>
+			<Point>
+				<coordinates>-77.0363693,38.8951111</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>London</name>
+			<region>London</region>
+			<Point>
+				<coordinates>-0.12574,51.5085297</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Los Angeles</name>
+			<region>Los Angeles</region>
+			<Point>
+				<coordinates>-118.2436829,34.0522308</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>California</name>
+			<region>California</region>
+			<Point>
+				<coordinates>-123.032,37.7272</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Nairobi</name>
+			<region>Nairobi</region>
+			<Point>
+				<coordinates>36.82,-1.29233</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Ottawa</name>
+			<region>Ottawa</region>
+			<Point>
+				<coordinates>-75.6981201,45.411171</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Chicago</name>
+			<region>Chicago</region>
+			<Point>
+				<coordinates>-87.6500473,41.850029</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>San Francisco</name>
+			<region>San Francisco</region>
+			<Point>
+				<coordinates>-123.032,37.7272</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Seattle</name>
+			<region>Seattle</region>
+			<Point>
+				<coordinates>-122.3320694,47.6062088</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Florida</name>
+			<region>Florida</region>
+			<Point>
+				<coordinates>-80.1936569,25.7742691</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Pennsylvania</name>
+			<region>Pennsylvania</region>
+			<Point>
+				<coordinates>-75.1637878,39.9523315</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Canberra</name>
+			<region>Canberra</region>
+			<Point>
+				<coordinates>149.128067,-35.2834587</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>San Diego</name>
+			<region>San Diego</region>
+			<Point>
+				<coordinates>-117.1572571,32.7153282</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Pretoria</name>
+			<region>Pretoria</region>
+			<Point>
+				<coordinates>28.18783,-25.7448597</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Manchester</name>
+			<region>Manchester</region>
+			<Point>
+				<coordinates>2.2374301,53.4809494</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Texas</name>
+			<region>Texas</region>
+			<Point>
+				<coordinates>-92.28904,35.32369</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Colorado</name>
+			<region>Colorado</region>
+			<Point>
+				<coordinates>-104.8213577,38.8338814</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Morioh</name>
+			<region>Morioh</region>
+			<Point>
+				<coordinates>138.2529297,36.2048225</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Abuya</name>
+			<region>Abuya</region>
+			<Point>
+				<coordinates>7.48321,9.06447</coordinates>
+			</Point>
+		</Placemark>
+
+	</Document>
+</kml>
