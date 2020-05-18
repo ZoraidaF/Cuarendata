@@ -4,14 +4,6 @@
 		<name>regiones_con_mas_tweets_falsos.kml</name>
 
 		<Placemark>
-			<name>New York</name>
-			<region>New York</region>
-			<Point>
-				<coordinates>-74.0059662,40.7142715</coordinates>
-			</Point>
-		</Placemark>
-
-		<Placemark>
 			<name>Washington, D.C.</name>
 			<region>Washington, D.C.</region>
 			<Point>
@@ -28,26 +20,10 @@
 		</Placemark>
 
 		<Placemark>
-			<name>Los Angeles</name>
-			<region>Los Angeles</region>
+			<name>New York</name>
+			<region>New York</region>
 			<Point>
-				<coordinates>-118.2436829,34.0522308</coordinates>
-			</Point>
-		</Placemark>
-
-		<Placemark>
-			<name>California</name>
-			<region>California</region>
-			<Point>
-				<coordinates>-123.032,37.7272</coordinates>
-			</Point>
-		</Placemark>
-
-		<Placemark>
-			<name>Nairobi</name>
-			<region>Nairobi</region>
-			<Point>
-				<coordinates>36.82,-1.29233</coordinates>
+				<coordinates>-74.0059662,40.7142715</coordinates>
 			</Point>
 		</Placemark>
 
@@ -60,6 +36,14 @@
 		</Placemark>
 
 		<Placemark>
+			<name>Los Angeles</name>
+			<region>Los Angeles</region>
+			<Point>
+				<coordinates>-118.2436829,34.0522308</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
 			<name>Chicago</name>
 			<region>Chicago</region>
 			<Point>
@@ -68,10 +52,58 @@
 		</Placemark>
 
 		<Placemark>
+			<name>Canberra</name>
+			<region>Canberra</region>
+			<Point>
+				<coordinates>149.128067,-35.2834587</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>California</name>
+			<region>California</region>
+			<Point>
+				<coordinates>-123.032,37.7272</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Nueva Delhi</name>
+			<region>Nueva Delhi</region>
+			<Point>
+				<coordinates>77.2314911,28.6519508</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Nairobi</name>
+			<region>Nairobi</region>
+			<Point>
+				<coordinates>36.82,-1.29233</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Pretoria</name>
+			<region>Pretoria</region>
+			<Point>
+				<coordinates>28.18783,-25.7448597</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
 			<name>San Francisco</name>
 			<region>San Francisco</region>
 			<Point>
 				<coordinates>-123.032,37.7272</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Abuya</name>
+			<region>Abuya</region>
+			<Point>
+				<coordinates>7.48321,9.06447</coordinates>
 			</Point>
 		</Placemark>
 
@@ -92,18 +124,10 @@
 		</Placemark>
 
 		<Placemark>
-			<name>Pennsylvania</name>
-			<region>Pennsylvania</region>
+			<name>Yakarta</name>
+			<region>Yakarta</region>
 			<Point>
-				<coordinates>-75.1637878,39.9523315</coordinates>
-			</Point>
-		</Placemark>
-
-		<Placemark>
-			<name>Canberra</name>
-			<region>Canberra</region>
-			<Point>
-				<coordinates>149.128067,-35.2834587</coordinates>
+				<coordinates>106.829,-6.20199</coordinates>
 			</Point>
 		</Placemark>
 
@@ -116,18 +140,10 @@
 		</Placemark>
 
 		<Placemark>
-			<name>Pretoria</name>
-			<region>Pretoria</region>
+			<name>Colorado</name>
+			<region>Colorado</region>
 			<Point>
-				<coordinates>28.18783,-25.7448597</coordinates>
-			</Point>
-		</Placemark>
-
-		<Placemark>
-			<name>Manchester</name>
-			<region>Manchester</region>
-			<Point>
-				<coordinates>2.2374301,53.4809494</coordinates>
+				<coordinates>-104.8213577,38.8338814</coordinates>
 			</Point>
 		</Placemark>
 
@@ -140,10 +156,10 @@
 		</Placemark>
 
 		<Placemark>
-			<name>Colorado</name>
-			<region>Colorado</region>
+			<name>Manchester</name>
+			<region>Manchester</region>
 			<Point>
-				<coordinates>-104.8213577,38.8338814</coordinates>
+				<coordinates>2.2374301,53.4809494</coordinates>
 			</Point>
 		</Placemark>
 
@@ -152,14 +168,6 @@
 			<region>Morioh</region>
 			<Point>
 				<coordinates>138.2529297,36.2048225</coordinates>
-			</Point>
-		</Placemark>
-
-		<Placemark>
-			<name>Abuya</name>
-			<region>Abuya</region>
-			<Point>
-				<coordinates>7.48321,9.06447</coordinates>
 			</Point>
 		</Placemark>
 
