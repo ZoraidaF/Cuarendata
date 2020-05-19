@@ -92,6 +92,14 @@
 		</Placemark>
 
 		<Placemark>
+			<name>San Francisco</name>
+			<region>San Francisco</region>
+			<Point>
+				<coordinates>-123.032,37.7272</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
 			<name>Yakarta</name>
 			<region>Yakarta</region>
 			<Point>
@@ -100,10 +108,18 @@
 		</Placemark>
 
 		<Placemark>
-			<name>San Francisco</name>
-			<region>San Francisco</region>
+			<name>New Jersey</name>
+			<region>New Jersey</region>
 			<Point>
-				<coordinates>-123.032,37.7272</coordinates>
+				<coordinates>-74.0776367,40.7281609</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Texas</name>
+			<region>Texas</region>
+			<Point>
+				<coordinates>-92.28904,35.32369</coordinates>
 			</Point>
 		</Placemark>
 
@@ -120,6 +136,30 @@
 			<region>Pretoria</region>
 			<Point>
 				<coordinates>28.18783,-25.7448597</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Oregon</name>
+			<region>Oregon</region>
+			<Point>
+				<coordinates>-120.50139,44.00013</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Atlanta</name>
+			<region>Atlanta</region>
+			<Point>
+				<coordinates>-84.38993,33.74511</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Dublín</name>
+			<region>Dublín</region>
+			<Point>
+				<coordinates>-6.26761,53.3434</coordinates>
 			</Point>
 		</Placemark>
 
@@ -148,6 +188,22 @@
 		</Placemark>
 
 		<Placemark>
+			<name>Oklahoma</name>
+			<region>Oklahoma</region>
+			<Point>
+				<coordinates>-97.5164337,35.4675598</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Houston</name>
+			<region>Houston</region>
+			<Point>
+				<coordinates>-95.3632736,29.7632809</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
 			<name>Seattle</name>
 			<region>Seattle</region>
 			<Point>
@@ -168,6 +224,22 @@
 			<region>Toronto</region>
 			<Point>
 				<coordinates>-79.4162979,43.7001114</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>San Diego</name>
+			<region>San Diego</region>
+			<Point>
+				<coordinates>-117.1572571,32.7153282</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Dallas</name>
+			<region>Dallas</region>
+			<Point>
+				<coordinates>-96.8066711,32.7830582</coordinates>
 			</Point>
 		</Placemark>
 
